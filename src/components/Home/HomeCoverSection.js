@@ -17,7 +17,7 @@ const HomeCoverSection = () => {
                     className="w-full h-full object-center object-cover rounded-3xl -z-10"
                 />
 
-                <div className="absolute inset-0 flex flex-col items-start justify-center p-4 md:p-8 lg:p-16 z-10 text-light leading-relaxed">
+                <div className="absolute inset-0 flex flex-col items-start justify-center p-4 md:p-8 lg:p-16 z-10 text-light leading-relaxed sm:text-sm">
                     <h1 className="text-2xl md:text-3xl lg:text-4xl text-[#EE9921] font-semibold">
                         Be Part of <br />
                         <span className="text-white text-3xl md:text-5xl lg:text-6xl">Our NGO</span>
