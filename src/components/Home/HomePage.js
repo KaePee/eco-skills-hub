@@ -20,7 +20,7 @@ const HomePage = () => {
 
         "In conclusion, the training effectively emphasized the importance of acquiring practical skills during difficult times. Through focused sessions on liquid soap making and T-shirt printing, participants gained valuable knowledge that can help them navigate and thrive in challenging circumstances.",
       ],
-      modalPdfUrl: "",
+      modalPdfUrl: "/pdfs/nkawie_skills_training.pdf",
     },
     {
       imageSrc: "/assets/ayeduase.png",
@@ -37,7 +37,7 @@ const HomePage = () => {
 
         "In conclusion, the Skills Training Program is a comprehensive initiative designed to empower participants with essential entrepreneurial skills, creativity, and problem-solving abilities. By fostering self-employment and providing mentorship, the program not only aids in business development but also encourages youth to contribute positively to their communities through voluntarism.",
       ],
-      modalPdfUrl: "",
+      modalPdfUrl: "/pdfs/prince_of_peace_ayeduase.pdf",
     },
   ];
 
